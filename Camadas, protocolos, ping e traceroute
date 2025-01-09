@@ -1,6 +1,32 @@
+Aula 1>
+
 Uma rede de computadores consiste em uma interconexão entre dispositivos computacionais para troca de informações, em geral, no formato de pacotes de dados.
 A internet é uma rede de computadores em nível global, possibilitando que dispositivos dispersos ao redor do mundo troquem informações e compartilhem recursos.
 A internet está organizada em camadas e protocolos. Cada camada possui uma função bem definida no encaminhamento de mensagens entre um computador e outro, sendo as principais do modelo de pilha de protocolos: aplicação, transporte, rede e física.
 Protocolos de comunicação são conjuntos de definições e especificações que orientam o processo de troca de dados entre dispositivos diferentes em uma rede de comunicação.
 Utilizar o comando ping para verificar a conectividade entre dispositivos computacionais.
 Usar o comando traceroute para verificar a rota na qual um pacote de dados está seguindo na rede.
+
+aula 2)
+Criar e simular redes no ambiente didático do Cisco Packet Tracer;
+Implementar e testar o funcionamento de uma rede de computadores com um hub como dispositivo de rede;
+Usar o comando nslookup para consultar servidores DNS;
+Conectar dispositivos computacionais e de rede usando cabos de conexão.
+
+aula 3)
+Interligar computadores em rede de modo mais seguro utilizando switches;
+Monitorar tráfegos de rede, analisando os diferentes protocolos usados nas operações de rede;
+Observar a atuação dos protocolos nas diferentes camadas de rede;
+Verificar quais dispositivos estão em uma mesma rede, analisando seus endereços IP e suas respectivas máscaras de rede.
+
+aula 4)
+Construir e operar redes usando roteadores como dispositivo de interligação, permitindo a comunicação de redes locais com redes externas;
+Criar sub redes usando roteadores;
+Configurar o default gateway de uma rede;
+Observar as regras do protocolo IP na atribuição de endereços aos equipamentos interligados em uma rede.
+
+aula 5)
+Utilizar o protocolo DHCP para atribuição automática de endereços IP;
+Construir uma intranet com servidores;
+Configurar servidores web em uma intranet para armazenar páginas e arquivos;
+Configurar e usar um servidor DNS para traduzir endereços de IP numéricos em nomes de domínio legíveis.
