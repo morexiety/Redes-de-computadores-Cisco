@@ -1,0 +1,20 @@
+aula 1 
+
+O que são lans virtuais e as principais vantagens de seu uso em um projeto de redes;
+Como criar uma vlan e configurar o seu funcionamento usando dispositivos de rede como switches e roteadores;
+Como conectar e operar vlans diferentes criadas para segmentação de uma rede em setores conforme demandas definidas nos requisitos do projeto.
+
+aula 2
+Criar redundâncias para evitar perdas de conexão entre as diferentes partes de uma rede;
+Utilizar o protocolo STP para evitar a formação de loops em redes;
+Organizar um projeto de rede em subredes com a alocação de endereços IP de modo eficiente.
+
+aula 3
+Implementar e configurar um servidor em uma rede para armazenamento de dados e páginas web;
+Utilizar os protocolos TCP e UDP em uma rede na camada de transporte;
+Criar e configurar listas de acesso para definir o tráfego de uma rede, restringindo o acesso a dispositivos com informações reservadas.
+
+aula 4
+As redes dos provedores de serviço de internet estão organizadas;
+Conectar a rede de uma organização à redes externas por meio dos provedores de serviço de internet;
+Realizar a tradução de endereços IP privados em IP públicos para garantir uma conexão segura com outras redes.
