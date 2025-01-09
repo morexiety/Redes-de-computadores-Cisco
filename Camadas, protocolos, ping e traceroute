@@ -1,0 +1,6 @@
+Uma rede de computadores consiste em uma interconexão entre dispositivos computacionais para troca de informações, em geral, no formato de pacotes de dados.
+A internet é uma rede de computadores em nível global, possibilitando que dispositivos dispersos ao redor do mundo troquem informações e compartilhem recursos.
+A internet está organizada em camadas e protocolos. Cada camada possui uma função bem definida no encaminhamento de mensagens entre um computador e outro, sendo as principais do modelo de pilha de protocolos: aplicação, transporte, rede e física.
+Protocolos de comunicação são conjuntos de definições e especificações que orientam o processo de troca de dados entre dispositivos diferentes em uma rede de comunicação.
+Utilizar o comando ping para verificar a conectividade entre dispositivos computacionais.
+Usar o comando traceroute para verificar a rota na qual um pacote de dados está seguindo na rede.
